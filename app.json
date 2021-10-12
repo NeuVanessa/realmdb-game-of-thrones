@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "realmdb-game-of-thrones",
+    "slug": "realmdb-game-of-thrones",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "realmdb-game-of-thrones"
+}
